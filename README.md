@@ -11,7 +11,7 @@ https://laksh-static-site-2026-733459311163-eu-north-1-an.s3.eu-north-1.amazonaw
 ### S3 Bucket
 ![S3 Bucket](Screenshot%202026-04-27%20173017.png)
 
-### Versioning
+### Life Cycle Rules
 ![Life Cycle rules](Screenshot%202026-04-27%20172335.png)
 
 ### Website Output
