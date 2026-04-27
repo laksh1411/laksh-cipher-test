@@ -9,10 +9,10 @@ https://laksh-static-site-2026-733459311163-eu-north-1-an.s3.eu-north-1.amazonaw
 ## 📸 Screenshots
 
 ### S3 Bucket
-![S3 Bucket](Screenshot%202026-04-27%20172335.png)
+![S3 Bucket](Screenshot%202026-04-27%20173017.png)
 
 ### Versioning
-![Versioning](Screenshot%202026-04-27%20173017.png)
+![Versioning](Screenshot%202026-04-27%20172335.png)
 
 ### Website Output
 ![Website](Screenshot%202026-04-27%20173656.png)
