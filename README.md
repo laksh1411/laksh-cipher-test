@@ -7,10 +7,15 @@
 https://laksh-static-site-2026-733459311163-eu-north-1-an.s3.eu-north-1.amazonaws.com/ai+chatbot.html
 
 ## 📸 Screenshots
-1. S3 Bucket with files
-2. Versioning enabled (multiple versions)
-3. Lifecycle rules
-4. Static website working
+
+### S3 Bucket
+![S3 Bucket](Screenshot%202026-04-27%20172335.png)
+
+### Versioning
+![Versioning](Screenshot%202026-04-27%20173017.png)
+
+### Website Output
+![Website](Screenshot%202026-04-27%20173656.png)
 
 ## ⚠️ Challenges Faced
 - Bucket public access issue
